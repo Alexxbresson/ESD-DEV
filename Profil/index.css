@@ -1,0 +1,199 @@
+html{
+	scroll-behavior:smooth;
+}
+
+body {
+	/*background-color:#c4bcba;*/
+	background: linear-gradient(to right, #ff5e62, #ff9966);
+	text-align:center;
+	margin-left:6em;
+}
+
+.menu{
+	position: fixed;
+	left:0;
+	width: 6em;
+	padding-bottom:800px;
+	margin-top: -0.5em;
+	display:block;
+	background-color:black;
+	color:#afafaf;
+}
+
+.menu a i:hover{
+	color:white;
+}
+
+.menu a i{
+	padding-right:100px;
+}
+
+.menu ul{
+	padding:0;
+}
+
+section{
+	margin-right:200px;
+	margin-left:200px;
+	background-color:#fff;
+	/*border-top: 15px solid rgba (0,0,0,0);  
+	border-right: 15px solid rgba (0,0,0,0);  
+	border-bottom: 15px solid rgba (0,0,0,0);  
+	border-left: 15px solid rgba (0,0,0,0);*/
+	padding-right:70px;
+	padding-left:70px;
+	border-radius:20px;
+}
+
+.section1{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.section1 p{
+	padding-left:100px;
+	padding-right:100px;
+}
+
+.section2{
+	padding-top:10px;
+	padding-bottom:10px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	padding-left:10px;
+	margin-top:30px;
+}
+
+.section3{
+	padding-top:20px;
+	padding-bottom:50px;
+	margin-top:30px;
+}
+
+.section4{
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-top:30px;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;
+	font-size:32px;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	color:#515151;
+}
+
+#img-circle{
+	border-radius:50%;
+	box-shadow: 4px 4px 5px #c1c1c1;
+}
+
+li{
+	display:inline-block;
+	padding:30px;
+	width:100px;
+}
+
+li a{
+	color:#afafaf;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	color:black;
+}
+
+#plus{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	text-align:center;
+	text-decoration:none;
+	background-color:black;
+	padding-top:13px;
+	padding-bottom:13px;
+	margin:auto;
+	height:100%;
+	width:20%;
+	border-radius:80px;
+	box-shadow: 2px 2px 3px #c1c1c1;
+}
+
+#plus a{
+	color:white;
+}
+
+#plus:hover{
+	background-color:#ff7e65;
+}
+
+.section3 h2{
+	text-align:justify;
+	padding-left:50px;
+}
+
+.section3 i{
+	padding:25px;
+	color:#afafaf;
+}
+
+a i:hover{
+	color:black;
+}
+
+.artisttext{
+	text-align:justify;
+	padding-left:50px;
+}
+
+.section4 i{
+	padding:25px;
+	color:#afafaf;
+}
+
+.section4 p{
+	padding-left:100px;
+	padding-right:100px;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size:14px;
+	color:#515151;
+}
+
+.image-width{
+	height:400px;
+	border-radius:5px;
+	margin:30px;
+	box-shadow: 2px 2px 3px #c1c1c1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
